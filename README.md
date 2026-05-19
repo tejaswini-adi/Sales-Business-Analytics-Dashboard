@@ -32,15 +32,10 @@ This project is an interactive Business Analytics Dashboard developed using Powe
 4. Dashboard Design
 5. KPI Visualization
 6. Business Insights Generation
-
-## Screenshots
-
-### Dashboard Preview
-(Add your screenshots here)
-
+   
 ## Files Included
 - Power BI Dashboard (.pbix)
-- Dataset (.csv/.xlsx)
+- Dataset (.xlsx)
 - Dashboard Screenshots
 
 ## Learning Outcome
